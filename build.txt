@@ -1,0 +1,3 @@
+displayName = Auto-Reusable Life Crystal & Mana Crystal & Life Fruit
+author = 承影
+version = 0.2

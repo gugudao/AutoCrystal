@@ -1,0 +1,25 @@
+Configs: {
+	ARLCConfigs: {
+		DisplayName: Configs
+
+		ItemUseTime: {
+			Label: "[i:109] Reset Crystal Usetime"
+			Tooltip:
+				'''
+				Modify the use time of life crystal, magic crystal and life fruit, as measured in game ticks (1 tick means 1/60 second);
+				Smaller value means faster usage.
+				'''
+		}
+
+		AutoCrystal: {
+			Label: "[i:29] Crystal Auto Reuse"
+			Tooltip:
+				'''
+				Determine whether the life crystal, mana crystal and life fruit can be auto-reuse, turns on by default.
+				(otherwise why did you subscribe to this mod bro)
+				'''
+		}
+	}
+}
+
+Config.SpeedConfig.Header: "[centeritem/h1:Cog]General Settings"

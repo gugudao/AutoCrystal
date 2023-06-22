@@ -1,0 +1,7 @@
+Auto-Reusable Life Crystal & Mana Crystal & Life Fruit
+
+As you can see, this mod allows you to hold the left click to automatically reuse Life Crystal, Mana Crystal and Life Fruit, without having to click over and over again. It also allows you to modify their usetime.
+
+This may help protect your mouse, or be a handy way to maximize a new character's stats to start various challenges.
+
+This content is also included in the Fantasy Time mod.

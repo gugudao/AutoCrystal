@@ -1,0 +1,25 @@
+Configs: {
+	ARLCConfigs: {
+		DisplayName: Configs
+
+		ItemUseTime: {
+			Label: "[i:109] 重设水晶使用时间"
+			Tooltip:
+				'''
+				修改生命水晶，魔力水晶和生命果的使用时间, 以游戏刻（game tick）为单位（1游戏刻相当于1/60秒）；
+				越小的值意味着越快的使用速度。
+				'''
+		}
+
+		AutoCrystal: {
+			Label: "[i:29] 自动重用水晶"
+			Tooltip:
+				'''
+				决定生命水晶，魔力水晶和生命果能否被自动重复使用，默认开启。
+				（否则你为什么要订阅这个mod呢老哥）
+				'''
+		}
+	}
+}
+
+Config.SpeedConfig.Header: "[centeritem/h3:Cog]通用设置"
